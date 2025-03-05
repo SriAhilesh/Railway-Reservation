@@ -1,5 +1,5 @@
 # Railway-Reservation system
-This Python project implements a railway reservation system using MySQL for data storage.
+This Python project implements a railway Ticket reservation system using MySQL for data storage.
 
 # features
 Create Account: Users can create a new account by providing basic details such as name, username, password, phone number, gender, and date of birth.
